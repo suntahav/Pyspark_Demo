@@ -1,0 +1,13 @@
+name,department,salary
+Krishna,IT,10000
+Ravi,IT,20000
+Raj,IT,30000
+Krishna,HR,15000
+Sudhan,HR,25000
+Rajesh,HR,35000
+Ram,HR,45000
+Sudhan,BigData,50000
+Krishna,BigData,60000
+Chaman,DataScience,70000
+Ravi,DataScience,80000
+Sudhan,IOS,90000
